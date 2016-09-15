@@ -42,3 +42,5 @@ Os2 131 (0,1 %)
 `` http://assistance.arubacloud.fr/KB/a510/11-quest-ce-quun-load-balancer.aspx `
 ## Qu’est-ce que l’Open Source ?
 - l Open Source est un programme informatique dont le code source est distribué sous une licence permettant à quiconque de lire, modifier ou redistribuer ce logiciel.
+## Qu’est-ce que le Bug Bounty ?
+- Le bug bounty est une pratique permettant à une entreprise de faire tester la sécurité de ses applications par des « gentils hackers », en les récompensant pour chaque bug ou vulnérabilité qu'ils lui reportent
