@@ -8,7 +8,7 @@
 
 ## Retrouvez le code source de la mission Apollo 11.
 
-   ### Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+### Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
    - L'équipage d'Apollo 11 est composé de Neil Armstrong, qui commande la mission et qui doit piloter le module lunaire jusqu'à la surface lunaire, Buzz Aldrin, deuxième membre de l'équipage à aller sur le sol lunaire et Michael Collins qui est le pilote du module de commande.
 
     Neil Armstrong (1930-2012), diplômé de l'Université Purdue commence sa carrière comme pilote de chasseur dans la Marine américaine entre 1949 et 1952 et participe à la guerre de Corée. Il rentre en 1955 comme pilote d'essai à la NACA (l'ancêtre de la NASA) où il vole sur de nombreux prototypes dont l'avion-fusée X-15. Il est recruté comme astronaute par la NASA en 1962. Il est le commandant de la mission Gemini 8 qui réussit le premier amarrage avec un autre vaisseau spatial6.
@@ -58,3 +58,14 @@ Os2 131 (0,1 %)
 
 ## Qu’est-ce que le Bug Bounty ?
 - Le bug bounty est une pratique permettant à une entreprise de faire tester la sécurité de ses applications par des « gentils hackers », en les récompensant pour chaque bug ou vulnérabilité qu'ils lui reportent
+
+## Qu'est-ce qu'une adresse IP v4 ?
+- c'est un identifiant de votre  adresse qui permet de vous identifier sur internet  et cette identifiant il es composé de 4 chiffres de 0 a 255 séparé par un point est attribué a chaque appareil connectés a un réseau
+
+### Pourquoi parle-t-on aussi d'adresse IP v6 ?
+- l'Internet Protocol version 6 (IPv6) plus utilisé auparavant version Internet Protocol 4 (IPv4) est l'espace d'adresse qui contient un grand (adressage) informations pour acheminer les paquets pour la prochaine génération d'Internet.
+
+- IPv6 prend en charge l'adresse de 128 bits d'espace et peut potentiellement soutenir 2128 ou 3.4W1038 adresses IP uniques (par opposition à l'adresse 32-bit espace d'IPv4). Avec ce grand système espace d'adressage, IPv6 a la capacité de fournir des adresses uniques à chaque appareil ou noeud relié à Internet
+
+## Combien coûte un serveur pour héberger mon site perso ?
+- il y a trois solutions pour l'hébergement de site : une alternative gratuite , une hebergement payant et une hebergement a domicile et l'hébergement payante elle est varie en fonction de l'hébergeur et sa coute entre 0€HT/m et 10€HT/m€HT/m en france et les autre voir dans ce site ``http://www.top10hebergeurs.com/``
