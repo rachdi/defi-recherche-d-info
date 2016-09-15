@@ -69,3 +69,19 @@ Os2 131 (0,1 %)
 
 ## Combien coûte un serveur pour héberger mon site perso ?
 - il y a trois solutions pour l'hébergement de site : une alternative gratuite , une hebergement payant et une hebergement a domicile et l'hébergement payante elle est varie en fonction de l'hébergeur et sa coute entre 0€HT/m et 10€HT/m€HT/m en france et les autre voir dans ce site ``http://www.top10hebergeurs.com/``
+
+## Qu’est-ce que le Cowboy coding ?
+- ccowboy coding est le développement de logiciels où les programmeurs ont une autonomie sur le processus de développementcomme aussi  (le contrôle du calendrier, des langues, des algorithmes, des outils, des cadres du projet et le style de codage)
+``https://en.wikipedia.org/wiki/Cowboy_coding``
+
+## Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+- Tiobe a fait un calssé les langages les plus utilisés en se basant sur les données de consultation issues des moteurs de recherche les plus recherché 
+donc en trouve en tete 'c' apres 'java','c++','objective-c','c#','javascript','PHP','python','visial basic .NET','visual Basic' ainsi de suite ....
+``http://www.esilv.fr/numerique-le-classement-des-langages-de-programmation-les-plus-populaires/``
+
+## Quelles sont les différences entre un software open-source et un software free ?
+- un software open source sa veut dire que ont a la lisibilité sur les sources du logiciel 
+Logo open source.
+
+La désignation open source, ou « code source ouvert », s'applique aux logiciels dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs qui permé la creatios de traveaux dérivés mis a la disposition du publique /et /software free c'est un logiciel qui peut etre utilisé, modifié, étudié, dupliqué et redistribué librement  par la personne à qui le logiciel a été distribué
+``https://www.april.org/quelles-sont-les-differences-entre-lopen-source-et-le-free-software``
