@@ -85,3 +85,4 @@ Logo open source.
 
 La désignation open source, ou « code source ouvert », s'applique aux logiciels dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs qui permé la creatios de traveaux dérivés mis a la disposition du publique /et /software free c'est un logiciel qui peut etre utilisé, modifié, étudié, dupliqué et redistribué librement  par la personne à qui le logiciel a été distribué
 ``https://www.april.org/quelles-sont-les-differences-entre-lopen-source-et-le-free-software``
+``https://fr.wikipedia.org/wiki/Open_source``
